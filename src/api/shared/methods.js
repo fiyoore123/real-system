@@ -1,0 +1,52 @@
+var actions = {
+registerDugsiInfo:{
+    name:'registerDugsiInfo'
+},
+registerCustomerInfo:{
+    name:'registerCustomerInfo'
+},
+registerUserInfo:{
+    name:'registerUserInfo'
+},
+updateDugsiInfo:{
+    name:'updateDugsiInfo'
+},
+updateCustomerInfo:{
+    name:'updateCustomerInfo'
+},
+updateUserInfo:{
+    name:'updateUserInfo'
+},
+
+deleteDugsiInfo:{
+    name:'deleteDugsiInfo'
+},
+deleteCustomerInfo:{
+    name:'deleteCustomerInfo'
+},
+deleteUserInfo:{
+    name:'deleteUserInfo'
+},
+getDugsiInfo:{
+    name:'getDugsiInfo'
+},
+getAllDugsiInfo:{
+    name:'getAllDugsiInfo'
+},
+getAllCustomerInfo:{
+    name:'getAllCustomerInfo'
+},
+getAllUseriInfo:{
+    name:'getAllUseriInfo'
+},
+getCustomerInfo:{
+    name:'getCustomerInfo'
+},
+getUserInfo:{
+    name:'getUserInfo'
+},
+getstudents:{
+    name:'getstudents'
+}
+};
+module.exports.actions = actions;
